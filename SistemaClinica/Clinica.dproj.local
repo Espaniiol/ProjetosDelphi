@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/18 18:16:58.000.622,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 18:17:35.000.381,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitPrincipal.dfm=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/02/18 18:17:35.000.381,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitPrincipal.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 18:17:44.000.489,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Clinica.dproj=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/02/18 18:37:57.000.361,=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit2.pas</Transaction>
+    <Transaction>2024/02/18 18:38:11.000.468,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitCadPacientes.dfm=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit2.dfm</Transaction>
+    <Transaction>2024/02/18 18:38:11.000.468,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitCadPacientes.pas=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit2.pas</Transaction>
+    <Transaction>2024/02/18 18:38:15.000.325,=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit3.pas</Transaction>
+    <Transaction>2024/02/18 18:38:33.000.498,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitCadAgendamentos.dfm=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit3.dfm</Transaction>
+    <Transaction>2024/02/18 18:38:33.000.498,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitCadAgendamentos.pas=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit3.pas</Transaction>
+    <Transaction>2024/02/18 18:51:04.000.782,=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 18:56:20.000.033,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitDM.dfm=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.dfm</Transaction>
+    <Transaction>2024/02/18 18:56:20.000.033,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitDM.pas=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 19:46:51.000.050,=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 19:46:56.000.901,=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 19:47:08.000.126,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitCadEspecialista.dfm=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.dfm</Transaction>
+    <Transaction>2024/02/18 19:47:08.000.126,C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\unitCadEspecialista.pas=C:\Users\Guilherme\Desktop\Delphi Ellon\SistemaClinica\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
