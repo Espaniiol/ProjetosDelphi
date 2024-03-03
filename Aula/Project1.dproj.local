@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/01 23:25:58.000.228,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/03 18:44:17.566,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/03 18:44:27.608,C:\Users\Guilherme\Desktop\Delphi\Aula\Unit1.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/03 18:44:27.608,C:\Users\Guilherme\Desktop\Delphi\Aula\Unit1.dfm=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/03 18:44:28.292,C:\Users\Guilherme\Desktop\Delphi\Aula\Project1.dproj=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/03 18:44:34.371,=C:\Users\Guilherme\Desktop\Delphi\Aula\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 18:44:44.675,=C:\Users\Guilherme\Desktop\Delphi\Aula\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 18:44:55.727,C:\Users\Guilherme\Desktop\Delphi\Aula\unitDM.pas=C:\Users\Guilherme\Desktop\Delphi\Aula\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 18:44:55.727,C:\Users\Guilherme\Desktop\Delphi\Aula\unitDM.dfm=C:\Users\Guilherme\Desktop\Delphi\Aula\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
